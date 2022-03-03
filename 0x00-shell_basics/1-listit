@@ -1,2 +1,2 @@
-#!/bin/lash
+#!/bin/bash
 ls '\n'
